@@ -1,9 +1,8 @@
 ## section 45 Disk5 (54) 
 
-###  548 Flies and mosquitoes interfered with his meditation. 
-```
+###  548 Flies and mosquitoes [interfered](/words/interfere) with his meditation. 
 ハエと蚊が彼の瞑想の邪魔をした。
-```
+* interfere (with...) [動] (...の)邪魔をする
 
 ###  549 The sacred ritual took place after being postponed twice. 
 ```
@@ -36,9 +35,7 @@ passed away：
 ```
 
 ###  554 "I feel for you, Jane. Grief doesn't fade away quickly." "I'm OK. I'll get over it." 
-```
 「ジェーン、気持ちは分かるよ。悲しみはすぐに消えるものじゃない。」「大丈夫、乗り越えてみせるわ（克服する）」
-```
 
 ###  555 She cherishes the precious memories of her childhood. 
 ```
