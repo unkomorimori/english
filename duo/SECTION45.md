@@ -2,14 +2,12 @@
 
 ###  548 Flies and mosquitoes [interfered](/words/interfere.md) with his meditation. 
 ハエと蚊が彼の瞑想の邪魔をした。
-* interfere (with...) [動] (...の)邪魔をする
+- interfere (with...) [動] (...の)邪魔をする
 
-###  549 The sacred ritual took place after being postponed twice. 
-```
+###  549 The [sacred](/words/sacred.md) [ritual](/words/ritual.md) took place after being postponed twice. 
 二度の延期の後、その神聖な儀式は執り行なわれた。
-
-ritual：儀式
-```
+- sacred [形] 神聖な
+- ritual [名] 儀式
 
 ###  550 All at once, the Buddhist priest burst into laughter, spoiling the solemn atmosphere. 
 ```
