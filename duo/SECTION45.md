@@ -1,6 +1,6 @@
 ## section 45 Disk5 (54) 
 
-###  548 Flies and mosquitoes [interfered](/words/interfere) with his meditation. 
+###  548 Flies and mosquitoes [interfered](/words/interfere.md) with his meditation. 
 ハエと蚊が彼の瞑想の邪魔をした。
 * interfere (with...) [動] (...の)邪魔をする
 
