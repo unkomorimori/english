@@ -1,4 +1,6 @@
-## section 45 Disk5 (54) 
+## section 45 
+
+## Disk5 54-55 
 
 ###  548 Flies and mosquitoes [interfered](/words/interfere.md) with his meditation. 
 ハエと蚊が彼の瞑想の邪魔をした。
@@ -6,15 +8,21 @@
 
 ###  549 The [sacred](/words/sacred.md) [ritual](/words/ritual.md) took place after being postponed twice. 
 二度の延期の後、その神聖な儀式は執り行なわれた。
-- sacred [形] 神聖な
-- ritual [名] 儀式
+- The sacred ritual = The+[形]+[名]
+    - sacred [形] 神聖な
+    - ritual [名] 儀式
 
 ###  550 All at once, the Buddhist priest burst into laughter, spoiling the solemn atmosphere. 
 お坊さんが突然大声で笑い出し、厳粛な雰囲気を台無しにした。
-
+- priest [名] 僧侶
+- the solemn atomosphere = the+[形]+[名]
+    - solemn [形] 厳粛な
+    - atomosphere [名] 雰囲気
 
 ###  551 Cover your mouth when you cough, sneeze, or yawn. 
 咳、くしゃみ、あくびをするときは口を手で隠しなさい。
+
+## Disk5 56-57
 
 ###  552 "One of her relatives passed away three days ago." "Oh, that's too bad. I'm so sorry." 
 「彼女の親戚が3日前に亡くなったんだ。」「え、それは大変ね。お気の毒だわ。」
@@ -33,6 +41,8 @@
 
 ###  556 "Speaking of Jennifer, she got engaged to a businessman." "I'm at a loss for words! I hope she won't break it off." 
 「ジェニファーといえば、彼女、実業家と婚約したんだよ。」「あきれてものが言えないわ。破談にならなきゃいいけどね。」
+
+## Disk5 58-60
 
 ###  557 These days, the motives for marriage are not necessarily pure. Take Jennifer for example. 
 近頃では、結婚の動機は必ずしも純粋とは限らない。例えば、ジェニファーを見てごらんよ。
